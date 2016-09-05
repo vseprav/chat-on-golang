@@ -25,7 +25,4 @@ _testmain.go
 *.test
 *.prof
 
-.gitignore
-.idea/
-chat.go
-templates/
+.idea
