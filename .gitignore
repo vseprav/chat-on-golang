@@ -1,3 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Go template
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -22,3 +24,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.gitignore
+.idea/
+chat.go
+templates/
